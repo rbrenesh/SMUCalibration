@@ -30,6 +30,7 @@ ser.baudrate = 115200
 ser.port = '/dev/cu.usbmodem2051395C4D521'
 #ser.port = 'COM8'
 
+#/dev/cu.usbmodem206A3083544E1
 
 ser.open()
 
